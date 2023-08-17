@@ -18,7 +18,7 @@
     .my-project{grid-template-columns: 1fr;}
     .project-1-main{margin: 30px auto;}
 
-    .contact p{width: 370px;}
+    
     .contact,.inputs{width: 100%;}
     .inputs{margin-top: 80px;}
 }
